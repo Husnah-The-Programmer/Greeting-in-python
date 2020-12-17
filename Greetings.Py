@@ -2,3 +2,4 @@
 print ("Greetings!")
 print("Hello, world!")
 print("Good day!")
+print("How are you?")
